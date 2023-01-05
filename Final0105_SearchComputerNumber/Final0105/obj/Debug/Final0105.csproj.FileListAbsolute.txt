@@ -1,0 +1,22 @@
+C:\Users\yazhe\OneDrive\文件\Visual Studio\Final0105\Final0105\bin\Debug\Final0105.exe.config
+C:\Users\yazhe\OneDrive\文件\Visual Studio\Final0105\Final0105\bin\Debug\Final0105.exe
+C:\Users\yazhe\OneDrive\文件\Visual Studio\Final0105\Final0105\bin\Debug\Final0105.pdb
+C:\Users\yazhe\OneDrive\文件\Visual Studio\Final0105\Final0105\obj\Debug\Final0105.csproj.AssemblyReference.cache
+C:\Users\yazhe\OneDrive\文件\Visual Studio\Final0105\Final0105\obj\Debug\Final0105.csproj.SuggestedBindingRedirects.cache
+C:\Users\yazhe\OneDrive\文件\Visual Studio\Final0105\Final0105\obj\Debug\Final0105.Form1.resources
+C:\Users\yazhe\OneDrive\文件\Visual Studio\Final0105\Final0105\obj\Debug\Final0105.Properties.Resources.resources
+C:\Users\yazhe\OneDrive\文件\Visual Studio\Final0105\Final0105\obj\Debug\Final0105.csproj.GenerateResource.cache
+C:\Users\yazhe\OneDrive\文件\Visual Studio\Final0105\Final0105\obj\Debug\Final0105.csproj.CoreCompileInputs.cache
+C:\Users\yazhe\OneDrive\文件\Visual Studio\Final0105\Final0105\obj\Debug\Final0105.exe
+C:\Users\yazhe\OneDrive\文件\Visual Studio\Final0105\Final0105\obj\Debug\Final0105.pdb
+C:\Users\yazhe\OneDrive\桌面\M11105504\Final0105_SearchComputerWithRank\Final0105\obj\Debug\Final0105.csproj.AssemblyReference.cache
+C:\Users\yazhe\OneDrive\桌面\M11105504\Final0105_SearchComputerWithRank\Final0105\obj\Debug\Final0105.csproj.SuggestedBindingRedirects.cache
+C:\Users\yazhe\OneDrive\桌面\M11105504\Final0105_SearchComputerWithRank\Final0105\obj\Debug\Final0105.Form1.resources
+C:\Users\yazhe\OneDrive\桌面\M11105504\Final0105_SearchComputerWithRank\Final0105\obj\Debug\Final0105.Properties.Resources.resources
+C:\Users\yazhe\OneDrive\桌面\M11105504\Final0105_SearchComputerWithRank\Final0105\obj\Debug\Final0105.csproj.GenerateResource.cache
+C:\Users\yazhe\OneDrive\桌面\M11105504\Final0105_SearchComputerWithRank\Final0105\obj\Debug\Final0105.csproj.CoreCompileInputs.cache
+C:\Users\yazhe\OneDrive\桌面\M11105504\Final0105_SearchComputerWithRank\Final0105\obj\Debug\Final0105.exe
+C:\Users\yazhe\OneDrive\桌面\M11105504\Final0105_SearchComputerWithRank\Final0105\obj\Debug\Final0105.pdb
+C:\Users\yazhe\OneDrive\桌面\M11105504\Final0105_SearchComputerWithRank\Final0105\bin\Debug\Final0105.exe.config
+C:\Users\yazhe\OneDrive\桌面\M11105504\Final0105_SearchComputerWithRank\Final0105\bin\Debug\Final0105.exe
+C:\Users\yazhe\OneDrive\桌面\M11105504\Final0105_SearchComputerWithRank\Final0105\bin\Debug\Final0105.pdb
